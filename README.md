@@ -1,7 +1,7 @@
 # AmigoSecreto.one
 
 Resumo:
-Dplicativo em JavaScript para sortear amigos a partir de uma lista personalizada. 
+Aplicativo em JavaScript para sortear amigos a partir de uma lista personalizada. 
 O usuário pode adicionar os nomes de seus amigos e realizar um sorteio para escolher aleatoriamente um deles.
 
 Funcionalidades:
