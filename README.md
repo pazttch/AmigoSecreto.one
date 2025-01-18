@@ -13,3 +13,5 @@ Tecnologias Usadas:
 HTML: Estrutura básica do aplicativo.
 CSS (opcional): Para estilização visual.
 JavaScript: Lógica de adicionar amigos, atualizar a lista e sortear aleatoriamente.
+
+https://pazttch.github.io/AmigoSecreto.one/
